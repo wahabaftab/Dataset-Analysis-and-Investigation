@@ -20,3 +20,6 @@ In this phase I analyzed the dataset to find some interesting insights and answe
 ### Conclusion:
 
 This project helped me and will also help you in performing detailed data analysis. It will also improve your understading regarding python, pandas ,numpy and data visualizations techniques. I have uploaded the dataset in this repo along with all the code with comments and detailed descriptions.
+
+
+More details about the project can be found here: https://wahabaftab.com/Investigate-a-TMDB-Dataset/
